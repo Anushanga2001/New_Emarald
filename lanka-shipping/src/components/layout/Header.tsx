@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Ship, Menu, X, Phone, Mail } from 'lucide-react'
+import { Ship, Menu, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { COMPANY_INFO } from '@/lib/constants'
 
